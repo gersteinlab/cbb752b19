@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
-header: "CBB752 (Spr. \'19) - Biomedical Data Science: Mining and Modeling"
+name: CBB752 SP19
+
+header: "header ABC"
+
 title: "CBB752 (Spr. \'19)"
 description: "Biomedical Data Science: Mining and Modeling"
+author: Donghoon Lee
