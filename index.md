@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+## Course Description
+
+Rapid developments in biotechnology and computing are changing the way that biomedical scientists interact with data. Traditionally, data were the end result of laborious experimentation, and their interpretation mostly involved careful thought and background knowledge. Today, data are increasingly generated much earlier in the scientific workflow and are much larger in scale. Also, before the data can be interpreted, extensive computational processing is often necessary. Thus, the data deluge now requires the mining and modeling of biomedical data at a large scale - ie biomedical data science. 
+
+This course aims to equip students with some of the concepts and skills relevant to biomedical data science, with an emphasis on bioinformatics, a sub-discipline of this broader field, through examples of mining and modeling of genomic and proteomic data. More specifically, bioinformatics encompasses the analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. It represents a major practical application for modern techniques in data mining and simulation. Specific topics to be covered include sequence alignment, large-scale processing, next-generation sequencing data, comparative genomics, phylogenetics, biological database design, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, mining of functional genomics data sets, and machine learning approaches for data integration.
+
+### Overall Flow of the Class:
+(Module = Group of Lectures)
+Introduction
+Module on "the Data" (Genomic, Proteomic & Structural Data), introducing the main data sources (their properties, where you access, &c)
+Module on Databases & Data Science Issues (Knowledge Representation incl. Sem. Web & Privacy, Provenance & Standards)
+Module on Mining (Alignment & Variant Calling, Supervised & Unsupervised Approaches, Networks)
+Module on Cell Modeling
+Module on Molecular Modeling
+
+### Lectures:
+MW 1:00 - 2:15 PM, Bass 305
+
+### Discussion Section:
+Bass 405 (subject to change)
 
 You can use the [editor on GitHub](https://github.com/gersteinlab/cbb752b19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
