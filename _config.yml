@@ -1,5 +1,12 @@
 theme: jekyll-theme-cayman
-header: "CBB752 SP19"
+name: "CBB752 SP19"
 title: "CBB 752 - Biomedical Data Science: Mining and Modeling"
 description: "Spring 2019"
-author: Donghoon Lee
+authors:
+  donghoon:
+    display_name: Donghoon Lee
+    email: donghoon.lee@yale.edu
+  hussein:
+    display_name: Hussein Mohsen
+    email: hussein.mohsen@yale.edu 
+    
