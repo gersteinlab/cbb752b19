@@ -5,11 +5,10 @@ layout: page
 
 ## For general correspondence and questions, please contact us at:
 
-cbb752 ( AT ) gersteinlab.org
-
-
+cbb752 (at) gersteinlab.org
 
 ## Instructor-in-Charge
+
  Name	Office 	 Email
 Mark Gerstein	Bass 432A 	contact.gerstein.info
 Guest Instructors
