@@ -18,6 +18,7 @@ cbb752 (at) gersteinlab.org
 | Name | Office | Email |
 | --- | --- | --- |
 | Corey O'Hern	| Mason Laboratory	| corey.ohern (at) yale.edu |
+| Steven Kleinstein	| 300 George St	| steven.kleinstein (at) yale.edu |
 | Jesse Rinehart	| West Campus	| jesse.rinehart (at) yale.edu |
 | Matthew Simon	| West Campus	| matthew.simon (at) yale.edu |
 | Kei Cheung	| 300 George St	| kei.cheung (at) yale.edu |
