@@ -3,19 +3,19 @@ title: Course Info
 layout: page
 ---
 
-# Contact Info
+## Contact Info
 
-## For general correspondence and questions, please contact us at:
+### For general correspondence and questions, please contact us at:
 
 cbb752 (at) gersteinlab.org
 
-## Instructor-in-Charge
+### Instructor-in-Charge
 
 | Name | Office | Email |
 | --- | --- | --- |
 | Mark Gerstein | Bass 432A | contact.gerstein.info |
 
-## Guest Instructors
+### Guest Instructors
 
 | Name | Office | Email |
 | --- | --- | --- |
@@ -28,22 +28,22 @@ cbb752 (at) gersteinlab.org
 
 Consultation is available UPON REQUEST or according to times stipulated by the individual instructors. Prof. Gerstein's office office hours will usually be right after some the classes.
 
-## Teaching Fellows (TA)
+### Teaching Fellows (TA)
 
 | Name | Office | Email |
 | --- | --- | --- |
 | Donghoon Lee	| Bass 437	| donghoon.lee (at) yale.edu |
 | Hussein Mohsen	| Bass 437	| hussein.mohsen (at) yale.edu |
 
-# General Course Policy
+## General Course Policy
 
-## First Meeting
+### First Meeting
 The first lecture will be held on Mon. Jan 14, 2019. Somewhat confusingly, Friday, January 18th has been declared an "academic Monday" due to Martin Luther King Jr. Day (1/21/2019), and so the course's **third** meeting will be on Friday, January 18th.
 
-## Snow Days (general policy)
+### Snow Days (general policy)
 We have built into the class schedule the potential for snow days. To avoid last minute uncertainty and confusion, we will not wait until Yale officially closes the university for snow (which only happens in the most extreme of blizzards). If the weather looks particularly problematic a few days before (e.g., on Sat. for a Mon. class), we will preemptively cancel via the class email list, which means it important for all to be on this list.
 
-## Grading Policy
+### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
 
 | Category	| % of Total Grade |
@@ -54,7 +54,7 @@ We expect that this year the weighting scheme will be to a first approximation:
 | Homeworks	| 20% |
 | Final Project	| 30% |
 
-## Relevant Yale College Regulations
+### Relevant Yale College Regulations
 
 Students may have questions concerning end-of-term matters. Links to further information about these regulations can be found below:
 - http://catalog.yale.edu/ycps/academic-regulations/reading-period-final-examination-period/
