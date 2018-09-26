@@ -9,5 +9,4 @@ There is a final project, to be announced. Students will work collaboratively on
 
 ## Previous Years
 
-[Final Project from Spring 2017](http://cbb752b17.gersteinlab.org/final).
- 
+[Final Project from Spring 2017](http://cbb752b17.gersteinlab.org/final)
