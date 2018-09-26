@@ -4,23 +4,24 @@ Rapid developments in bio- and information- technology and are changing the way 
 
 This course aims to equip students with some of the concepts and skills relevant to biomedical data science, with an emphasis on bioinformatics, a sub-discipline of this broader field, through examples of mining and modeling of genomic and proteomic data. More specifically, bioinformatics encompasses the analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. It represents a major practical application for modern techniques in data mining and simulation. Specific topics to be covered include sequence alignment, large-scale processing, next-generation sequencing data, comparative genomics, phylogenetics, biological database design, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, mining of functional genomics data sets, and machine learning approaches for data integration.
 
-### Overall Flow of the Class:
+### Overall Flow of the Class
 
 (Module = Group of Lectures)
-Introduction
-Module on "the Data" (Genomic, Proteomic & Structural Data), introducing the main data sources (their properties, where you access, &c)
-Module on Databases & Data Science Issues (Knowledge Representation incl. Sem. Web & Privacy, Provenance & Standards)
-Module on Mining (Alignment & Variant Calling, Supervised & Unsupervised Approaches, Networks)
-Module on Cell Modeling
-Module on Molecular Modeling
 
-### Lectures:
+- Introduction
+- Module on "the Data" (Genomic, Proteomic & Structural Data), introducing the main data sources (their properties, where you access, &c)
+- Module on Databases & Data Science Issues (Knowledge Representation incl. Sem. Web & Privacy, Provenance & Standards)
+- Module on Mining (Alignment & Variant Calling, Supervised & Unsupervised Approaches, Networks)
+- Module on Cell Modeling
+- Module on Molecular Modeling
 
-MW 1:00 - 2:15 PM, Bass 305
+### Lectures
 
-### Discussion Section:
+- MW 1:00 - 2:15 PM, Bass 305
 
-Bass 405 or Bass 205 (subject to change)
+### Discussion Section
+
+- Bass 405 or Bass 205 (subject to change)
 
 ## Different headings for this class (4 variants)
 
@@ -32,10 +33,10 @@ Bass 405 or Bass 205 (subject to change)
  discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CBB752, there is no programming required.
 
 - MB&B 753b3/MB&B 754b4 - Modules
-  For graduate students the course can be broken up into two "modules" (each counting 0.5 credit towards MB&B course requirement):
+  - For graduate students the course can be broken up into two "modules" (each counting 0.5 credit towards MB&B course requirement):
   - 753 - Biomedical Data Science: Mining (1st half of term)
   - 754 - Biomedical Data Science: Modeling (2nd half of term)
-  Each module consists of lectures, in-class tests, written problem sets, and a final, graduate level written project that is half the length of the full course's final project.
+  - Each module consists of lectures, in-class tests, written problem sets, and a final, graduate level written project that is half the length of the full course's final project.
 
 - MB&B452/MCDB452/S&DS352 - Undergrad. 
   - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CB752 can be substituted for the written work by permission of instructor.
@@ -50,6 +51,7 @@ The course is keyed towards CBB graduate students as well as advanced undergradu
 Students should have:
 - A basic knowledge of biochemistry and molecular biology. 
 - A knowledge of basic quantitative concepts, such as single variable calculus, basic probability & statistics, and basic programming skills.
+
 These can be fulfilled by: MBB 200 and Mathematics 115 or permission of the instructor.
 
 ## Class Requirements
@@ -62,7 +64,7 @@ Papers will be assigned throughout the course. These papers will be presented an
 - There will be a quiz covering the 2nd half of the course.
 Quizes will comprise simple questions that you should be able to answer from the lectures plus the main readings.
 
-For references, please refer the previous [Quiz Archive](/cbb752b19/quiz)
+For references, please refer the previous [Quiz Archive](/quiz)
 
 ### Programming Assignments (Req'd for CBB and CS grad. students)
 - There will be four homework assignments including assignment 0. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
@@ -72,7 +74,7 @@ For references, please refer the previous [Quiz Archive](/cbb752b19/quiz)
 
 ## Syllabus
 
-The course syllabus as a single PDF can be found [HERE](/cbb752b19/syllabus)
+The course syllabus as a single PDF can be found [HERE](/syllabus)
 
 ## Pages from previous years
 - 2019 Spring is the 21st time Bioinformatics has been taught at Yale. Pages for the 20 previous iterations of the class are available. Look at how things evolve!
