@@ -5,6 +5,7 @@ Rapid developments in bio- and information- technology and are changing the way 
 This course aims to equip students with some of the concepts and skills relevant to biomedical data science, with an emphasis on bioinformatics, a sub-discipline of this broader field, through examples of mining and modeling of genomic and proteomic data. More specifically, bioinformatics encompasses the analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. It represents a major practical application for modern techniques in data mining and simulation. Specific topics to be covered include sequence alignment, large-scale processing, next-generation sequencing data, comparative genomics, phylogenetics, biological database design, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, mining of functional genomics data sets, and machine learning approaches for data integration.
 
 ### Overall Flow of the Class:
+
 (Module = Group of Lectures)
 Introduction
 Module on "the Data" (Genomic, Proteomic & Structural Data), introducing the main data sources (their properties, where you access, &c)
@@ -14,43 +15,72 @@ Module on Cell Modeling
 Module on Molecular Modeling
 
 ### Lectures:
+
 MW 1:00 - 2:15 PM, Bass 305
 
 ### Discussion Section:
-Bass 405 (subject to change)
 
-You can use the [editor on GitHub](https://github.com/gersteinlab/cbb752b19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bass 405 or Bass 205 (subject to change)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Different headings for this class (4 variants)
 
-### Markdown
+- CB&B752/CPSC752 - Grad. w/ programming
+  - This graduate-level version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- MB&B752/MCDB752 - Grad. w/o programming 
+  - This graduate-level version of the course consists of lectures, in-class tests, 
+ discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CBB752, there is no programming required.
 
-```markdown
-Syntax highlighted code block
+- MB&B 753b3/MB&B 754b4 - Modules
+  For graduate students the course can be broken up into two "modules" (each counting 0.5 credit towards MB&B course requirement):
+  - 753 - Biomedical Data Science: Mining (1st half of term)
+  - 754 - Biomedical Data Science: Modeling (2nd half of term)
+  Each module consists of lectures, in-class tests, written problem sets, and a final, graduate level written project that is half the length of the full course's final project.
 
-# Header 1
-## Header 2
-### Header 3
+- MB&B452/MCDB452/S&DS352 - Undergrad. 
+  - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CB752 can be substituted for the written work by permission of instructor.
+ 
+- Auditing
+  - This is allowed. We would strongly prefer if you would register for the class.
 
-- Bulleted
-- List
+## Prerequisites
 
-1. Numbered
-2. List
+The course is keyed towards CBB graduate students as well as advanced undergraduates and graduate students wishing to learn about types of large-scale quantitative analysis that whole-genome sequencing and forms of large-scale biological data will make possible. It would also be suitable for students from other fields such as computer science, statistics or physics wanting to learn about an important new biological application for computation.
 
-**Bold** and _Italic_ and `Code` text
+Students should have:
+- A basic knowledge of biochemistry and molecular biology. 
+- A knowledge of basic quantitative concepts, such as single variable calculus, basic probability & statistics, and basic programming skills.
+These can be fulfilled by: MBB 200 and Mathematics 115 or permission of the instructor.
 
-[Link](url) and ![Image](src)
-```
+## Class Requirements
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Discussion Section / Readings
+Papers will be assigned throughout the course. These papers will be presented and discussed in weekly 60-minute sections with the TFs. A brief summary (a half-page per article) should be submitted at the beginning of the discussion session.
 
-### Jekyll Themes
+- In-class tests: Midterm & Quiz
+  There will be a midterm covering the 1st half of the course.
+  There will be a quiz covering 2nd half of the course comprising simple questions that you should be able to answer from the lectures plus the main readings.
+  For references, please refer the previous [Quiz Archive](/cbb752b19/quiz)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gersteinlab/cbb752b19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Programming Assignments (Req'd for CBB and CS grad. students)
+  There will be four homework assignments including assignment 0. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
 
-### Support or Contact
+- Non-programming Assignments 
+  There will be equivalent four homework assignments (including assignment 0), particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Syllabus
+
+The course syllabus as a single PDF can be found [HERE](/cbb752b19/quiz)
+
+## Pages from previous years
+- 2019 Spring is the 21st time Bioinformatics has been taught at Yale. Pages for the 20 previous iterations of the class are available. Look at how things evolve!
+- 2018 Spring
+- 2017 Spring
+- 2016 Spring
+- 2015 Spring
+- 2014 Spring
+- 2012 Fall
+- 2012 Spring
+- 2011 Spring
+- 2010 Spring
+- 2009 and earlier (12 years of classes, staring in '98) (Note the pre-2010 course was Genomics & Bioinformatics; after 2010, the course contains all of the "Bioinformatics" of previous years and then more (!) with less "Genomics".)
