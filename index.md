@@ -54,19 +54,21 @@ These can be fulfilled by: MBB 200 and Mathematics 115 or permission of the inst
 
 ## Class Requirements
 
-- Discussion Section / Readings
+### Discussion Section / Readings
 Papers will be assigned throughout the course. These papers will be presented and discussed in weekly 60-minute sections with the TFs. A brief summary (a half-page per article) should be submitted at the beginning of the discussion session.
 
-- In-class tests: Midterm & Quiz
-  There will be a midterm covering the 1st half of the course.
-  There will be a quiz covering 2nd half of the course comprising simple questions that you should be able to answer from the lectures plus the main readings.
-  For references, please refer the previous [Quiz Archive](/cbb752b19/quiz)
+### In-class tests: Quiz
+- There will be a quiz covering the 1st half of the course.
+- There will be a quiz covering the 2nd half of the course.
+Quizes will comprise simple questions that you should be able to answer from the lectures plus the main readings.
 
-- Programming Assignments (Req'd for CBB and CS grad. students)
-  There will be four homework assignments including assignment 0. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
+For references, please refer the previous [Quiz Archive](/cbb752b19/quiz)
 
-- Non-programming Assignments 
-  There will be equivalent four homework assignments (including assignment 0), particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
+### Programming Assignments (Req'd for CBB and CS grad. students)
+- There will be four homework assignments including assignment 0. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
+
+### Non-programming Assignments 
+- There will be equivalent four homework assignments (including assignment 0), particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Syllabus
 
