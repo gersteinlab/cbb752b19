@@ -70,17 +70,17 @@ Papers will be assigned throughout the course. These papers will be presented an
 
 ## Syllabus
 
-The course syllabus as a single PDF can be found [HERE](/cbb752b19/quiz)
+The course syllabus as a single PDF can be found [HERE](/cbb752b19/syllabus)
 
 ## Pages from previous years
 - 2019 Spring is the 21st time Bioinformatics has been taught at Yale. Pages for the 20 previous iterations of the class are available. Look at how things evolve!
-- 2018 Spring
-- 2017 Spring
-- 2016 Spring
-- 2015 Spring
-- 2014 Spring
-- 2012 Fall
-- 2012 Spring
-- 2011 Spring
-- 2010 Spring
-- 2009 and earlier (12 years of classes, staring in '98) (Note the pre-2010 course was Genomics & Bioinformatics; after 2010, the course contains all of the "Bioinformatics" of previous years and then more (!) with less "Genomics".)
+- [2018 Spring](http://cbb752b18.gersteinlab.org)
+- [2017 Spring](http://cbb752b17.gersteinlab.org)
+- [2016 Spring](http://cbb752b16.gersteinlab.org)
+- [2015 Spring](http://cbb752b15.gersteinlab.org)
+- [2014 Spring](http://info.gersteinlab.org/Cbb752b14)
+- [2012 Fall](http://info.gersteinlab.org/Cbb752a12)
+- [2012 Spring](http://info.gersteinlab.org/Cbb752b12)
+- [2011 Spring](http://info.gersteinlab.org/Cbb752b11)
+- [2010 Spring](http://www.gersteinlab.org/courses/452/10-spring/)
+- [2009 and earlier (12 years of classes, staring in '98)](http://www.gersteinlab.org/courses/452/10-spring/previous.html) (Note the pre-2010 course was Genomics & Bioinformatics; after 2010, the course contains all of the "Bioinformatics" of previous years and then more (!) with less "Genomics".)
