@@ -77,7 +77,7 @@ For references, please refer the previous [Quiz Archive](/quiz)
 The course syllabus as a single PDF can be found [HERE](/syllabus)
 
 ## Pages from previous years
-- 2019 Spring is the 22nd time Bioinformatics has been taught at Yale. Pages for the 20 previous iterations of the class are available. Look at how things evolve!
+- 2019 Spring is the 22nd time Bioinformatics has been taught at Yale. Pages for the 21 previous iterations of the class are available. Look at how things evolve!
 - [2018 Spring](http://cbb752b18.gersteinlab.org)
 - [2017 Spring](http://cbb752b17.gersteinlab.org)
 - [2016 Spring](http://cbb752b16.gersteinlab.org)
