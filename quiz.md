@@ -8,7 +8,7 @@ layout: page
 <ul>
 <li>
 	<span style="line-height:1.6;background-color:transparent">Spring 2018: </span>
-	<a href="http://cbb752b18.gersteinlab.org/" target="_blank">Main Page</a>
+	<a href="http://cbb752b18.gersteinlab.org/" target="_blank">Main Page</a>, <a href=http://files.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz1.docx>Quiz 1</a> , <a href=http://files.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz2_key.docx>Quiz 1 Key</a> , <a href=http://files.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz2.docx>Quiz 2</a> , <a href=http://files.gersteinlab.org/public-docs/2018/10.05/cbb752b18/cbb752b18_quiz1_key.docx>Quiz 2 Key</a>
 </li>
 <li>
 	<span style="line-height:1.6;background-color:transparent">Spring 2017: </span>
