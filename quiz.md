@@ -16,7 +16,11 @@ layout: page
 	</li>
 	<li>
 		Spring 2017: 
-		<a href="http://cbb752b17.gersteinlab.org/">Main Page</a>
+		<a href="http://cbb752b17.gersteinlab.org/">Main Page</a>, 
+		<a href=http://files.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_hw1.pdf>HW 1</a>, 
+		<a href=http://files.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_hw2.tar.gz>HW 2</a>, 
+		<a href=http://files.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_midterm.pdf>Midterm</a>, 
+		<a href=http://files.gersteinlab.org/public-docs/2018/10.09/cbb752b17/cbb752b17_final.docx>Final</a>
 	</li>
 	<li>
 		Spring 2016: 
