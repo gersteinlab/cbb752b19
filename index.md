@@ -6,7 +6,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ### Overall Flow of the Class
 
-(Module = Group of Lectures)
+Test Edit HM - (Module = Group of Lectures)
 
 - Introduction
 - Module on "the Data" (Genomic, Proteomic & Structural Data), introducing the main data sources (their properties, where you access, &c)
