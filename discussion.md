@@ -34,8 +34,8 @@ Next-Gen Sequencing and database
 
 #### Session 2,	2/1, BASS 405
 Proteomics
-* A draft map of the human proteome. Nature 509,575–581 (29 May 2014) [[PDF]](http://www.nature.com/nature/journal/v509/n7502/full/nature13302.html)
-* Mass-spectrometry-based draft of the human proteome. Nature 509, 582–587 (29 May 2014) [[PDF]](http://www.nature.com/nature/journal/v509/n7502/full/nature13319.html)
+* A draft map of the human proteome. Nature 509,575–581 (29 May 2014) [[PDF]](https://www.nature.com/articles/nature13302.pdf)
+* Mass-spectrometry-based draft of the human proteome. Nature 509, 582–587 (29 May 2014) [[PDF]](https://www.nature.com/articles/nature13319.pdf)
 
 #### Session 3,	2/8, BASS 205 (Note Room Change)
 Debate I
@@ -57,16 +57,15 @@ Help session on Quiz 1 - TFs prepare materials on SW alignments and Q&A session
 Debate II - Phylogenetics (cladistics vs phylogenetics)
 
 * Suggested PDFs:
-  * [[1]](http://science.sciencemag.org/content/349/6255/1460.2)
-  * [[2]](http://science.sciencemag.org/content/350/6257/171.2.long)
-
+  * [[1]](http://science.sciencemag.org/content/349/6255/1460.2.full.pdf)
+  * [[2]](http://science.sciencemag.org/content/350/6257/171.2.full.pdf)
 
 #### Session 6,	3/1, BASS 205 (Note Room Change)
-* TBD
-
+Deep learning for genomics
+* A primer on deep learning in genomics [[PDF]](https://www.nature.com/articles/s41588-018-0295-5.pdf)
+* Deep learning for biology [[PDF]](https://www.nature.com/magazine-assets/d41586-018-02174-z/d41586-018-02174-z.pdf)
 
 #### (spring recess)
-
 
 #### Session 7, 3/29,	BASS 405
 * Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf) 
@@ -77,13 +76,13 @@ Debate II - Phylogenetics (cladistics vs phylogenetics)
 (Potential Papers TBD)
 
 * Perelson AS. Modelling viral and immune system dynamics. Nat Rev Immunol. 2002 Jan;2(1):28-36. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/perelson.pdf)
-* Modeling the Spread of Ebola [[PDF]](https://www.sciencedirect.com/science/article/pii/S2210909915300618)
+* Modeling the Spread of Ebola [[PDF]](https://www.sciencedirect.com/science/article/pii/S2210909915300618/pdfft?md5=5821aebbd161d4c945b83f57e658cdf5&pid=1-s2.0-S2210909915300618-main.pdf)
 
 #### Session 9, 4/12, BASS 405
 Debate III - Cancer incidence
 * Suggested PDFs:
-  * [[1]](http://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
-  * [[2]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
+  * Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](http://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
+  * The simple math that explains why you may (or may not) get cancer [[Link]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
 
 #### Session 10, 4/19, BASS 405
 Help session on quiz 2 / final project
