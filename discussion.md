@@ -23,7 +23,7 @@ The standard discussion section involves student presentations on 1 or 2 papers.
 ### Section Readings
 Reading assignments for discussion sessions are listed below:
 
-#### (Optional) Suggested Reading for Week 1 - There will be a class instead of discussion session on 1/18/2019
+#### (Optional) Suggested Reading for Week 1 (There will be a class instead of discussion session on 1/18/2019)
 * How to (seriously) read a scientific paper, on your own. [[Link]](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 #### Session 1, 1/25, BASS 405 (First discussion session)
