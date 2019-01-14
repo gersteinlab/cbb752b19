@@ -88,3 +88,8 @@ The course syllabus as a single PDF can be found [HERE](/syllabus)
 - [2011 Spring](http://info.gersteinlab.org/Cbb752b11)
 - [2010 Spring](http://www.gersteinlab.org/courses/452/10-spring/)
 - [2009 and earlier (12 years of classes, staring in '98)](http://www.gersteinlab.org/courses/452/10-spring/previous.html) (Note the pre-2010 course was Genomics & Bioinformatics; after 2010, the course contains all of the "Bioinformatics" of previous years and then more (!) with less "Genomics".)
+
+
+## Class data dump
+- Syllabus and class info dump in single PDF file: [PDF v1](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v2.pdf)
+- Advertisement [Poster](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Poster_A4.pdf)
