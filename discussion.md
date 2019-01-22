@@ -18,7 +18,7 @@ The standard discussion section involves student presentations on 1 or 2 papers.
 
 * Each week, students should **read the assigned papers and write approx. one page (3-4 paragraph) summaries of each paper**. 
 We would like to encourage electronic submission, via Canvas. For those who have trouble accessing canvas, we will also accept submission over email to cbb752 (at) gersteinlab.org BEFORE the start of each section.
-* Each student will give one presentation about a selected paper (approx. 20 min) in one of sessions.
+* Each student will give one presentation about a selected paper (approx. 20 min) in one of the sessions.
 * Students will be graded on a combination of the written summary, presentation, and participation in discussions.
 * If you are presenting, you are exempt from writing a summary.
 * Please notify TFs in advance if you cannot come to the discussion session. Student **can miss up to one discussion section without a penalty**.
