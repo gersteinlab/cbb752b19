@@ -7,8 +7,10 @@ layout: page
 
 ### Time and Location
 
-BASS 405 (or BASS 205 for 2/8 & 3/1)
-1:00p - 2:00p
+| Session | Time | Location | Note |
+| --- | --- | --- | --- |
+| Section 1 | 9:30a - 10:30a | BASS 405 | Room Change: BASS 205 for 2/8, 3/1 |
+| Section 2 | 1:00p - 2:00p | BASS 405 | Room Change: BASS 434 for 2/8, 2/15, 4/12 |
 
 ### Format
 
