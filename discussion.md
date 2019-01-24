@@ -97,7 +97,7 @@ Reading assignments for discussion sessions are listed below:
 
 #### Reading Assignment
 * Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf) 
-* Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem.Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf)
+* Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf)
 * Bowman GR, Beauchamp KA, Boxer G, Pande VS. “Progress and challenges in the automated construction of Markov state models for full protein systems,” J. Chem. Phys. 131 (2009) 124101 [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/bowman.pdf)
 
 ### Session 8,	4/5, BASS 405 for both Sessions
