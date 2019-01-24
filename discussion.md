@@ -54,11 +54,11 @@ Reading assignments for discussion sessions are listed below:
 * Debate I
 
 #### Reading Assignment 
-* Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
 * Gencode vs Salzberg et al. debate
-  * [News Article: New human gene tally reignites debate](https://www.nature.com/articles/d41586-018-05462-w)
-  * [Salzberg CHESS paper using GTEx](https://www.biorxiv.org/content/early/2018/05/29/332825.full.pdf)
-  * [GENCODE's rebuttal](https://www.biorxiv.org/content/early/2018/07/02/360602.full.pdf)
+  * (Main paper) Salzberg CHESS paper using GTEx [[PDF]](https://www.biorxiv.org/content/early/2018/05/29/332825.full.pdf)
+  * (Main paper) GENCODE's rebuttal [[PDF]](https://www.biorxiv.org/content/early/2018/07/02/360602.full.pdf)
+  * (Optional) New human gene tally reignites debate [[News Article]](https://www.nature.com/articles/d41586-018-05462-w)
+* (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
 
 ### Session 4,	2/15, BASS 434 for Session 1, BASS 405 for Session 2 (Note Room Change)
 
@@ -76,8 +76,8 @@ Reading assignments for discussion sessions are listed below:
 * Debate II - Phylogenetics (cladistics vs phylogenetics)
 
 #### Reading Assignment
-* Response to Comment on “Whole-genome analyses resolve early branches in the tree of life of modern birds” [PDF](http://science.sciencemag.org/content/349/6255/1460.2.full.pdf)
-* Response to Comment on “Statistical binning enables an accurate coalescent-based estimation of the avian tree”[PDF](http://science.sciencemag.org/content/350/6257/171.2.full.pdf)
+* Response to Comment on “Whole-genome analyses resolve early branches in the tree of life of modern birds” [[PDF]](http://science.sciencemag.org/content/349/6255/1460.2.full.pdf)
+* Response to Comment on “Statistical binning enables an accurate coalescent-based estimation of the avian tree” [[PDF]](http://science.sciencemag.org/content/350/6257/171.2.full.pdf)
 
 ### Session 6,	3/1, BASS 405 for Session 1, BASS 205 for Session 2 (Note Room Change)
 
