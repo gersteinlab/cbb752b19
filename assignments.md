@@ -3,4 +3,7 @@ title: Assignments
 layout: page
 ---
 
-TBD
+# Homework 1
+
+DUE DATE: February 22th (Friday) 2019, 11:59pm
+
