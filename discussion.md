@@ -76,8 +76,9 @@ Reading assignments for discussion sessions are listed below:
 * Debate II - Phylogenetics (cladistics vs phylogenetics)
 
 #### Reading Assignment
-* Response to Comment on “Whole-genome analyses resolve early branches in the tree of life of modern birds” [[PDF]](http://science.sciencemag.org/content/349/6255/1460.2.full.pdf)
-* Response to Comment on “Statistical binning enables an accurate coalescent-based estimation of the avian tree” [[PDF]](http://science.sciencemag.org/content/350/6257/171.2.full.pdf)
+* Jarvis ED et al. (2014) Whole-genome analyses resolve early branches in the tree of life of modern birds. Science, 346(6215), 1320-1331. [[PDF]](http://science.sciencemag.org/content/sci/346/6215/1320.full.pdf)
+* Mitchel KJ, Cooper A, Philips MJ (2015) Comment on “Whole-genome analyses resolve early branches in the tree of life of modern birds.” Science, 349(6255) 1460 [[PDF]](http://science.sciencemag.org/content/sci/349/6255/1460.1.full.pdf)
+
 
 ### Session 6,	3/1, BASS 405 for Session 1, BASS 205 for Session 2 (Note Room Change)
 
