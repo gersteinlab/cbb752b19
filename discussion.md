@@ -55,7 +55,7 @@ Reading assignments for discussion sessions are listed below:
 
 #### Reading Assignment 
 * Gencode vs Salzberg et al. debate
-  * (Main paper) Salzberg CHESS paper using GTEx [[PDF]](https://www.biorxiv.org/content/early/2018/05/29/332825.full.pdf)
+  * (Main paper) Salzberg et al. CHESS paper using GTEx [[PDF]](https://www.biorxiv.org/content/early/2018/05/29/332825.full.pdf)
   * (Main paper) GENCODE's rebuttal [[PDF]](https://www.biorxiv.org/content/early/2018/07/02/360602.full.pdf)
   * (Optional) New human gene tally reignites debate [[News Article]](https://www.nature.com/articles/d41586-018-05462-w)
 * (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
@@ -73,7 +73,7 @@ Reading assignments for discussion sessions are listed below:
 ### Session 5,	2/22, BASS 405 for both Sessions
 
 #### Topic
-* Debate II - Phylogenetics (cladistics vs phylogenetics)
+* Debate II - Phylogenetics
 
 #### Reading Assignment
 * Jarvis ED et al. (2014) Whole-genome analyses resolve early branches in the tree of life of modern birds. Science, 346(6215), 1320-1331. [[PDF]](http://science.sciencemag.org/content/sci/346/6215/1320.full.pdf)
