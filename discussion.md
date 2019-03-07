@@ -10,7 +10,7 @@ layout: page
 | Session | Time | Location | Note |
 | --- | --- | --- | --- |
 | Section 1 | 9:30a - 10:30a | BASS 405 | Room Change: BASS 434 for 2/8, 2/15, 4/12 |
-| Section 2 | 1:00p - 2:00p | BASS 405 | Room Change: BASS 205 for 2/8, 3/1 |
+| Section 2 | 1:00p - 2:00p | BASS 405 | Room Change: BASS 205 for 2/8, 3/1, 3/29 |
 
 ### Format
 
@@ -91,7 +91,7 @@ Reading assignments for discussion sessions are listed below:
 
 ### (spring recess)
 
-### Session 7, 3/29,	BASS 405 for both Sessions
+### Session 7, 3/29,	BASS 405 for Session 1, BASS 205 for Session 2 (Note Room Change)
 
 #### Topic
 * Protein structure and biophysics
